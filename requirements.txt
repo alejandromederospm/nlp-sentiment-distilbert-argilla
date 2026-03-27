@@ -1,0 +1,10 @@
+transformers
+datasets
+argilla
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+accelerate
